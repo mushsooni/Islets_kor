@@ -7,7 +7,8 @@ https://gall.dcinside.com/indiegame/153577
 ### 패치 제작
 버섯순이
 
-### 게임 원본 빌드 : 1.003
+### 게임 원본 빌드
+1.003  
 https://steamdb.info/patchnotes/9546181/
 
 ### 사용된 폰트

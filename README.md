@@ -1,6 +1,9 @@
 # Islets 한글패치  
 
 
+### 다운로드
+https://github.com/mushsooni/Islets_kor/releases
+
 ### 문의, 제보
 인디게임 갤러리 "[한글패치] Islets"  
 https://gall.dcinside.com/indiegame/153577

@@ -1,16 +1,16 @@
-# Islets_kor
-Islets 한글패치  
+# Islets 한글패치  
 
-## 문의, 제보 : 인디게임 갤러리 "[한글패치] Islets"
+
+### 문의, 제보 : 인디게임 갤러리 "[한글패치] Islets"
 https://gall.dcinside.com/indiegame/153577
 
-## 패치 제작
+### 패치 제작
 버섯순이
 
-## 게임 원본 빌드 : 1.003
+### 게임 원본 빌드 : 1.003
 https://steamdb.info/patchnotes/9546181/
 
-## 사용된 폰트
+### 사용된 폰트
 
 둘기마요고딕  
 https://blog.naver.com/dovemayo_/223003707589

@@ -1,7 +1,8 @@
 # Islets 한글패치  
 
 
-### 문의, 제보 : 인디게임 갤러리 "[한글패치] Islets"
+### 문의, 제보
+인디게임 갤러리 "[한글패치] Islets"  
 https://gall.dcinside.com/indiegame/153577
 
 ### 패치 제작

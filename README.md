@@ -2,7 +2,7 @@
 
 
 ### 다운로드
-https://github.com/mushsooni/Islets_kor/releases/download/v1.2/Islets_KR_1.2.zip
+https://github.com/mushsooni/Islets_kor/releases/download/v1.2.1/Islets_KR_1.2.1.zip
 
 ### 패치 방법
 1. `Islets` 폴더 내부의 파일 5개를 게임 폴더에 붙여넣기  
@@ -29,7 +29,8 @@ Snowyegret(v1.2 기술지원)
 2024-08-15 [v1.0] 최초 공개  
 2025-09-02 배포 링크 변경 (구글 드라이브 → 깃허브 리포지토리)  
 2026-03-10 [v1.1] 번역 개선, 폰트 교체  
-2026-03-11 [v1.2] 하드코딩 텍스트 번역, 스파인 이미지 번역
+2026-03-11 [v1.2] 하드코딩 텍스트 번역, 스파인 이미지 번역  
+2026-03-11 [v1.2.1] v1.1 이후 발생한 일부 컷씬 미번역 이슈 수정
 
 ### 사용된 폰트
 
